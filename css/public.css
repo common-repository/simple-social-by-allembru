@@ -1,0 +1,38 @@
+.allembru-simple-social { 
+	display:block;
+	position:relative;
+	margin:0 0 15px 0;
+}
+.allembru-simple-social .gplus,
+.allembru-simple-social .facebook,
+.allembru-simple-social .twitter,
+.allembru-simple-social .linkedin {
+	display:block;
+	float:left;
+	height:24px;
+	width:109px;
+	margin:1px;
+	/* border:1px solid #CCC; */
+	text-align:center;
+}
+.allembru-simple-social div.gplus {
+	width:89px;
+	padding-left:20px;
+}
+.allembru-simple-social div.facebook {
+	height:22px;
+	padding-top:2px;
+}
+.allembru-simple-social div.twitter {
+	width:94px;
+	padding-left:15px;
+	height:22px;
+	padding-top:2px;
+}
+.allembru-simple-social div.linkedin {
+	height:22px;
+	padding-top:2px;
+}
+.allembru-clear {
+	clear:both;
+}
